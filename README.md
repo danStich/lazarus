@@ -4,7 +4,7 @@
  
 Mark-recapture survival models with state uncertainty for radio-tagged animals.
 
-This repository contains R and JAGS code used for generalized estimation of organismal survival when observations of mortality contain false-positive identification of fish (e.g., in closed systems or for animals with unreliable mortality-sensing radio tags). This study came about because fish were frequently relocated long distances from previous locations, and were previously assumed to be dead. This occurred because they remained fairly still for long periods of time and frequently sent radio-tags into a burst rate that indicated they were dead.
+This repository contains `R` and `BUGS` code used for generalized estimation of organismal survival when observations of mortality contain false-positive identification of fish (e.g., in closed systems or for animals with unreliable mortality-sensing radio tags). This study came about because fish were frequently relocated long distances from previous locations, and were previously assumed to be dead. This occurred because they remained fairly still for long periods of time and frequently sent radio-tags into a burst rate that indicated they were dead.
 
 <br>
  
