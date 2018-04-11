@@ -12,7 +12,7 @@ This repository contains R and JAGS code used for generalized estimation of orga
 
 <br>
  
-`Lazarus_sims.R` contains all code necessary to simulate and analyze data for the validation study conducted in the citation provided below. JAGS must be installed to run the code, and the package `R2jags` must be installed in R.
+`Lazarus_sims.R` contains all code necessary to simulate and analyze data for the validation study conducted in the citation provided below. [JAGS](http://sourceforge.net/projects/mcmc-jags/files/l) must be installed to run the code, and the package `R2jags` must be installed in R.
 
 The code makes extensive use of R code from [Kéry and Schaub (2010) _Bayesian Population Analysis Using WinBUGS_](http:/www.vogelwarte.ch/de/projekte/publikationen/bpa/).
 
