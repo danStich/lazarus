@@ -22,6 +22,6 @@ The code makes extensive use of R code from [Kéry and Schaub (2010) _Bayesian P
 
 <br>
  
-The citation for the study that this code was used for is:
+The citation for the study for which this code was written is:
 
 **Stich, D. S.**, Y. Jiao, and B. R. Murphy. 2015. Life, death, and resurrection: accounting for state uncertainty in survival estimation from tagged grass carp. North American Journal of Fisheries Management 35:321-330.
