@@ -3,7 +3,7 @@ Mark-recapture survival models with state uncertainty for radio-tagged animals.
 
 This repository contains R and JAGS code used for generalized estimation of organismal survival when observations of mortality contain false-positive identification of fish (e.g., in closed systems or for animals with unreliable mortality-sensing radio tags).
 
-The code makes extensive use of R code from [K{\u00E8}ry and Schaub (2010) _Bayesian Population Analysis Using WinBUGS_](http:/www.vogelwarte.ch/de/projekte/publikationen/bpa/)
+The code makes extensive use of R code from [Kéry and Schaub (2010) _Bayesian Population Analysis Using WinBUGS_](http:/www.vogelwarte.ch/de/projekte/publikationen/bpa/)
 
 <br>
  
